@@ -1,6 +1,6 @@
 {
 	"author":"Brian",
-	"name":"censorify",
+	"name":"qiuwang_npmtest1",
 	"version":"0.0.1",
 	"description":"Censors words out of text.",
 	"main":"censortext",
